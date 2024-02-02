@@ -11,3 +11,7 @@ func Test2() {
 func Test3() {
 	print("t3")
 }
+
+func Test4() {
+	print("t4")
+}
