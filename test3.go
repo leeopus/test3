@@ -19,3 +19,11 @@ func Test4() {
 func Test5() {
 	print("t5")
 }
+
+func Test6() {
+	print("t6")
+}
+
+func Test7() {
+	print("t7")
+}
